@@ -1,4 +1,4 @@
-$DOCKER_VERSION="19.03"
+$DOCKER_VERSION="20.0"
 
 # install Docker:
 Install-WindowsFeature -Name Containers
