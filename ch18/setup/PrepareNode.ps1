@@ -18,7 +18,7 @@ PS> .\PrepareNode.ps1 -KubernetesVersion v1.17.0
 
 Param(
     [parameter(HelpMessage="Kubernetes version to use")]
-    [string] $KubernetesVersion = 'v1.18.5'
+    [string] $KubernetesVersion = 'v1.19.7'
 )
 $ErrorActionPreference = 'Stop'
 
